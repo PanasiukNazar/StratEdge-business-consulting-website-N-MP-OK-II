@@ -2,9 +2,9 @@
     box-sizing: border-box;
 }
 body {
-    background: #ffffff;
-    background: linear-gradient(to bottom, #ffffff 0%, #e1e8ed 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#e1e8ed',GradientType=0 );
+    background: #F5F7F9fff;
+    background: linear-gradient(to bottom, #F5F7F9fff 0%, #e1e8ed 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#F5F7F9fff', endColorstr='#e1e8ed',GradientType=0 );
     height: 100%;
     margin: 0;
     background-repeat: no-repeat;
@@ -58,7 +58,7 @@ h1 {
     color: #3ab7b7;
 }
 a:hover #go-home {
-    color: #fff !important;
+    color: #F5F7F9 !important;
 }
 .footer-like {
     margin-top: auto;

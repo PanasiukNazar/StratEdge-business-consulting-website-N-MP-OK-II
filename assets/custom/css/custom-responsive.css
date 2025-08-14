@@ -173,7 +173,7 @@
     right: -24px;
     left: auto;
     border-top: 15px solid transparent !important;
-    border-left: 25px solid #fff !important;
+    border-left: 25px solid #F5F7F9 !important;
     border-bottom: 15px solid transparent;
     border-right: 0 !important;
     width: 0;
@@ -217,7 +217,7 @@
     background: #2c3e4f;
 }
 .btco-hover-menu a, .navbar > li > a { 
-    color: #fff; 
+    color: #F5F7F9; 
 }
 .icons-header-mobile{
     position: absolute;
@@ -320,7 +320,7 @@
     padding: 40px 0;
 }
 .index-traingle::before { 
-    border-bottom: 100vh solid #ffffffbf;
+    border-bottom: 100vh solid #F5F7F9fffbf;
     border-right:  100.5vw solid transparent; 
 }
 #fables-testimonial-carousel .owl-item {
@@ -495,7 +495,7 @@
     font-weight: 400;
     opacity: 1;
     position: absolute;
-    color: #fff !important;
+    color: #F5F7F9 !important;
 }
 .gallery-timeline .cd-timeline-content .cd-date {
     right: auto;
@@ -506,7 +506,7 @@
     font-weight: 400;
     opacity: 1;
     position: absolute;
-    color: #fff !important;
+    color: #F5F7F9 !important;
 }
 .gallery-timeline{
     margin: 0;
@@ -724,7 +724,7 @@
 .multi-event-timeline .timeline-items .timeline-item:nth-of-type(2n)::before {
     left: -26px !important; 
     border-left: 0; 
-    border-right: 25px solid #fff !important; 
+    border-right: 25px solid #F5F7F9 !important; 
     right: auto;  
 }
 .fables-single-item::after {

@@ -6,7 +6,7 @@
           left: 0;
           bottom: 0;
           right:0;
-          background: #fff;
+          background: #F5F7F9;
     z-index: 999;
           transition: all ease-in-out .3s ;         
       }
